@@ -1,0 +1,30 @@
+Synthetic sample listings: 650
+
+Listings by role:
+role
+Data Analyst          120
+Python Developer      118
+Business Analyst      110
+Data Engineer         110
+Power BI Developer     98
+SQL Developer          94
+
+Average sample CTC by role (LPA):
+role
+Data Engineer         7.27
+Python Developer      6.29
+Power BI Developer    5.56
+Business Analyst      5.53
+Data Analyst          5.48
+SQL Developer         5.37
+
+Skill frequency:
+skills
+Statistics       356
+SQL              334
+Excel            333
+ETL              330
+Communication    321
+Python           315
+Tableau          308
+Power BI         303

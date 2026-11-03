@@ -1,0 +1,651 @@
+job_id,role,experience_level,annual_ctc_lpa,company_type,skills,location
+J0001,SQL Developer,2-4 years,6.7,Product Company,Communication;Excel;Tableau;Statistics,Bengaluru
+J0002,Data Engineer,0-2 years,5.9,Startup,Statistics;Tableau;Communication;ETL,Bengaluru
+J0003,Business Analyst,2-4 years,6.1,Startup,ETL;Excel;Statistics;Tableau,Bengaluru
+J0004,SQL Developer,0-2 years,4.5,FinTech,Statistics;Communication;Python;Power BI,Bengaluru
+J0005,Power BI Developer,Fresher,4.4,Product Company,Statistics;Communication;Excel;SQL,Bengaluru
+J0006,Business Analyst,0-2 years,4.9,IT Services,Power BI;Excel;SQL;ETL,Bengaluru
+J0007,Power BI Developer,4-6 years,7.8,Consulting,Python;Communication;ETL;Statistics,Bengaluru
+J0008,Python Developer,Fresher,4.8,FinTech,Statistics;Python;Tableau;SQL,Bengaluru
+J0009,Python Developer,2-4 years,6.4,Product Company,Tableau;Statistics;Power BI;SQL,Bengaluru
+J0010,SQL Developer,0-2 years,4.1,IT Services,ETL;SQL;Excel;Statistics,Bengaluru
+J0011,Data Engineer,0-2 years,7.6,FinTech,Statistics;Communication;Python;SQL,Bengaluru
+J0012,Power BI Developer,0-2 years,3.4,Startup,Python;Power BI;Communication;Tableau,Bengaluru
+J0013,Business Analyst,0-2 years,5.0,FinTech,Communication;ETL;Excel;Tableau,Bengaluru
+J0014,Python Developer,2-4 years,6.4,Product Company,ETL;Statistics;Python;Excel,Bengaluru
+J0015,Data Engineer,2-4 years,8.3,Startup,SQL;ETL;Power BI;Communication,Bengaluru
+J0016,Business Analyst,Fresher,3.3,IT Services,Python;ETL;Power BI;Communication,Bengaluru
+J0017,Python Developer,0-2 years,5.1,Consulting,Power BI;Python;SQL;ETL,Bengaluru
+J0018,Power BI Developer,2-4 years,6.3,Consulting,Excel;Tableau;Communication;SQL,Bengaluru
+J0019,Business Analyst,2-4 years,7.4,Startup,Python;Communication;SQL;ETL,Bengaluru
+J0020,Python Developer,0-2 years,5.8,Consulting,Power BI;Statistics;Python;Communication,Bengaluru
+J0021,Python Developer,2-4 years,5.9,FinTech,Power BI;Communication;Statistics;Tableau,Bengaluru
+J0022,Business Analyst,Fresher,4.1,Consulting,Statistics;Python;Power BI;Excel,Bengaluru
+J0023,Business Analyst,Fresher,5.2,Consulting,Excel;Communication;SQL;Statistics,Bengaluru
+J0024,Python Developer,2-4 years,5.8,Startup,SQL;Statistics;ETL;Communication,Bengaluru
+J0025,Business Analyst,2-4 years,6.4,Consulting,ETL;Tableau;Power BI;Python,Bengaluru
+J0026,Data Engineer,2-4 years,8.0,Consulting,ETL;Tableau;Python;Excel,Bengaluru
+J0027,Python Developer,Fresher,4.5,Startup,Excel;Statistics;Python;Tableau,Bengaluru
+J0028,Power BI Developer,0-2 years,7.3,IT Services,Tableau;Communication;ETL;SQL,Bengaluru
+J0029,SQL Developer,2-4 years,5.7,FinTech,Tableau;Statistics;Power BI;Communication,Bengaluru
+J0030,Business Analyst,0-2 years,5.6,FinTech,Tableau;Communication;Python;Excel,Bengaluru
+J0031,SQL Developer,0-2 years,4.1,Startup,Python;ETL;Statistics;Communication,Bengaluru
+J0032,Power BI Developer,2-4 years,6.8,Consulting,Power BI;Tableau;Communication;Excel,Bengaluru
+J0033,SQL Developer,Fresher,4.7,Product Company,Statistics;ETL;Tableau;Power BI,Bengaluru
+J0034,Business Analyst,0-2 years,4.7,Product Company,Statistics;Excel;ETL;Tableau,Bengaluru
+J0035,Data Analyst,Fresher,4.2,Product Company,Communication;Python;Power BI;ETL,Bengaluru
+J0036,Python Developer,4-6 years,7.6,FinTech,ETL;Excel;SQL;Python,Bengaluru
+J0037,Power BI Developer,0-2 years,4.2,Product Company,Statistics;Tableau;SQL;ETL,Bengaluru
+J0038,Python Developer,Fresher,5.6,Product Company,Python;Statistics;Excel;SQL,Bengaluru
+J0039,Business Analyst,Fresher,4.1,Consulting,Python;ETL;Power BI;Tableau,Bengaluru
+J0040,Business Analyst,Fresher,2.6,Product Company,Tableau;Statistics;Communication;SQL,Bengaluru
+J0041,SQL Developer,Fresher,5.4,FinTech,Power BI;Statistics;Excel;ETL,Bengaluru
+J0042,SQL Developer,2-4 years,5.4,IT Services,ETL;Communication;Statistics;Tableau,Bengaluru
+J0043,Business Analyst,Fresher,4.3,FinTech,Python;Statistics;Tableau;Power BI,Bengaluru
+J0044,Data Engineer,0-2 years,8.0,Consulting,ETL;Communication;Power BI;Python,Bengaluru
+J0045,Business Analyst,Fresher,4.4,FinTech,Excel;ETL;Communication;SQL,Bengaluru
+J0046,Business Analyst,0-2 years,5.1,IT Services,Communication;SQL;Tableau;Statistics,Bengaluru
+J0047,Python Developer,Fresher,3.8,Product Company,ETL;Excel;Statistics;Communication,Bengaluru
+J0048,Power BI Developer,2-4 years,5.1,Startup,Python;Tableau;SQL;Statistics,Bengaluru
+J0049,SQL Developer,2-4 years,5.9,FinTech,Power BI;Python;SQL;Tableau,Bengaluru
+J0050,Power BI Developer,2-4 years,6.7,FinTech,Statistics;SQL;Python;ETL,Bengaluru
+J0051,Data Analyst,0-2 years,5.1,IT Services,Power BI;Statistics;Tableau;SQL,Bengaluru
+J0052,Python Developer,4-6 years,7.9,Startup,Communication;Tableau;SQL;Statistics,Bengaluru
+J0053,Data Analyst,2-4 years,6.2,Consulting,SQL;ETL;Tableau;Python,Bengaluru
+J0054,Data Analyst,Fresher,2.7,Consulting,Python;ETL;Power BI;Statistics,Bengaluru
+J0055,Python Developer,0-2 years,5.9,Product Company,ETL;Statistics;SQL;Tableau,Bengaluru
+J0056,Business Analyst,2-4 years,6.6,Startup,ETL;Excel;SQL;Tableau,Bengaluru
+J0057,Data Analyst,0-2 years,6.5,FinTech,Excel;Communication;Statistics;ETL,Bengaluru
+J0058,Business Analyst,0-2 years,5.2,Product Company,Excel;Communication;Power BI;Statistics,Bengaluru
+J0059,Power BI Developer,2-4 years,5.6,Consulting,Excel;SQL;Python;ETL,Bengaluru
+J0060,Python Developer,Fresher,4.8,FinTech,Statistics;Communication;ETL;Excel,Bengaluru
+J0061,SQL Developer,4-6 years,7.2,Product Company,Python;SQL;Excel;Communication,Bengaluru
+J0062,Data Engineer,Fresher,6.3,Startup,Python;Power BI;SQL;ETL,Bengaluru
+J0063,SQL Developer,Fresher,4.0,FinTech,SQL;ETL;Tableau;Statistics,Bengaluru
+J0064,Data Engineer,Fresher,5.0,Consulting,ETL;Excel;Communication;Statistics,Bengaluru
+J0065,SQL Developer,0-2 years,3.4,FinTech,Tableau;Power BI;Statistics;Python,Bengaluru
+J0066,Data Analyst,4-6 years,7.9,Consulting,Statistics;Python;Excel;SQL,Bengaluru
+J0067,Data Analyst,2-4 years,7.3,FinTech,Tableau;Power BI;Excel;Statistics,Bengaluru
+J0068,Business Analyst,4-6 years,8.1,FinTech,SQL;Excel;ETL;Python,Bengaluru
+J0069,Business Analyst,0-2 years,5.9,IT Services,Power BI;Tableau;Statistics;SQL,Bengaluru
+J0070,Data Analyst,0-2 years,5.7,Startup,Python;ETL;Excel;Power BI,Bengaluru
+J0071,SQL Developer,0-2 years,4.9,Startup,ETL;Python;SQL;Power BI,Bengaluru
+J0072,Data Engineer,Fresher,5.3,Consulting,Communication;Power BI;Excel;ETL,Bengaluru
+J0073,Business Analyst,4-6 years,8.2,IT Services,Excel;Communication;Power BI;ETL,Bengaluru
+J0074,Business Analyst,0-2 years,6.2,Product Company,Statistics;Power BI;Excel;Python,Bengaluru
+J0075,Data Engineer,0-2 years,7.1,Consulting,Excel;Power BI;Python;ETL,Bengaluru
+J0076,Business Analyst,0-2 years,5.8,Product Company,Power BI;ETL;SQL;Communication,Bengaluru
+J0077,Power BI Developer,2-4 years,6.0,Startup,Python;Excel;ETL;SQL,Bengaluru
+J0078,Python Developer,0-2 years,5.3,IT Services,Tableau;ETL;Python;Statistics,Bengaluru
+J0079,Data Engineer,2-4 years,7.9,Startup,Python;Communication;Tableau;Power BI,Bengaluru
+J0080,Python Developer,2-4 years,6.8,IT Services,ETL;Python;Statistics;Power BI,Bengaluru
+J0081,Python Developer,4-6 years,9.2,Consulting,Excel;ETL;Communication;Statistics,Bengaluru
+J0082,Business Analyst,Fresher,2.6,Product Company,Power BI;Communication;Excel;Statistics,Bengaluru
+J0083,Python Developer,Fresher,4.8,Consulting,Tableau;ETL;SQL;Statistics,Bengaluru
+J0084,Power BI Developer,0-2 years,5.0,Startup,SQL;Communication;Power BI;Excel,Bengaluru
+J0085,Data Engineer,4-6 years,8.4,Consulting,SQL;Excel;Statistics;Python,Bengaluru
+J0086,Data Analyst,4-6 years,8.2,Product Company,Excel;Statistics;Power BI;Tableau,Bengaluru
+J0087,Data Analyst,2-4 years,5.6,IT Services,Tableau;ETL;Power BI;Python,Bengaluru
+J0088,Data Analyst,Fresher,3.9,Consulting,ETL;Python;Statistics;Excel,Bengaluru
+J0089,Power BI Developer,Fresher,5.9,Startup,Python;ETL;Statistics;SQL,Bengaluru
+J0090,Data Analyst,2-4 years,7.0,Product Company,ETL;Power BI;SQL;Python,Bengaluru
+J0091,Data Engineer,Fresher,6.5,Product Company,Tableau;Communication;SQL;ETL,Bengaluru
+J0092,SQL Developer,0-2 years,5.0,Startup,Tableau;ETL;Communication;Statistics,Bengaluru
+J0093,Business Analyst,2-4 years,6.4,FinTech,Python;ETL;Communication;SQL,Bengaluru
+J0094,Data Engineer,0-2 years,8.3,IT Services,Tableau;Power BI;Excel;Python,Bengaluru
+J0095,Power BI Developer,0-2 years,5.7,Startup,SQL;Python;Tableau;Communication,Bengaluru
+J0096,Python Developer,Fresher,4.2,Product Company,SQL;Python;Excel;Communication,Bengaluru
+J0097,Data Engineer,0-2 years,5.6,FinTech,SQL;Statistics;Python;Excel,Bengaluru
+J0098,Power BI Developer,2-4 years,6.9,Consulting,SQL;Tableau;Statistics;Communication,Bengaluru
+J0099,Python Developer,0-2 years,5.5,Consulting,SQL;ETL;Communication;Tableau,Bengaluru
+J0100,Business Analyst,Fresher,3.4,FinTech,ETL;Communication;Tableau;Power BI,Bengaluru
+J0101,Data Engineer,Fresher,6.3,Startup,Communication;Excel;Tableau;ETL,Bengaluru
+J0102,Power BI Developer,Fresher,4.2,Product Company,Communication;SQL;ETL;Python,Bengaluru
+J0103,Data Engineer,2-4 years,8.4,IT Services,Python;Tableau;Power BI;Statistics,Bengaluru
+J0104,Data Engineer,2-4 years,8.4,Consulting,Power BI;Communication;Tableau;Excel,Bengaluru
+J0105,Python Developer,0-2 years,5.0,FinTech,ETL;Communication;Python;Power BI,Bengaluru
+J0106,SQL Developer,0-2 years,5.2,Startup,Tableau;ETL;Statistics;SQL,Bengaluru
+J0107,Data Engineer,Fresher,5.6,Startup,Communication;Tableau;SQL;ETL,Bengaluru
+J0108,Data Engineer,0-2 years,6.4,FinTech,Excel;Communication;Python;Statistics,Bengaluru
+J0109,Data Analyst,Fresher,3.8,Product Company,Python;Excel;Power BI;SQL,Bengaluru
+J0110,Python Developer,4-6 years,9.2,IT Services,Tableau;Excel;Power BI;SQL,Bengaluru
+J0111,Python Developer,Fresher,4.6,Startup,Python;Tableau;ETL;SQL,Bengaluru
+J0112,Power BI Developer,0-2 years,6.2,IT Services,Communication;Python;Power BI;SQL,Bengaluru
+J0113,Data Engineer,Fresher,7.4,Startup,SQL;Communication;Excel;Tableau,Bengaluru
+J0114,Business Analyst,2-4 years,5.9,IT Services,Tableau;Statistics;ETL;Python,Bengaluru
+J0115,Data Engineer,Fresher,3.7,Startup,Python;Power BI;Statistics;Tableau,Bengaluru
+J0116,Python Developer,4-6 years,9.1,Startup,Power BI;SQL;ETL;Python,Bengaluru
+J0117,Data Analyst,Fresher,3.9,FinTech,Statistics;Tableau;Communication;ETL,Bengaluru
+J0118,Python Developer,2-4 years,6.1,Consulting,Tableau;Python;SQL;ETL,Bengaluru
+J0119,Data Analyst,2-4 years,5.7,FinTech,Python;ETL;Statistics;Communication,Bengaluru
+J0120,Data Engineer,0-2 years,6.4,IT Services,Tableau;Communication;ETL;SQL,Bengaluru
+J0121,Power BI Developer,Fresher,5.4,IT Services,ETL;Python;Excel;Communication,Bengaluru
+J0122,Data Engineer,0-2 years,6.8,IT Services,Statistics;Communication;Power BI;SQL,Bengaluru
+J0123,Python Developer,2-4 years,7.8,Product Company,Statistics;Python;Excel;SQL,Bengaluru
+J0124,SQL Developer,4-6 years,7.9,Startup,Excel;Communication;Tableau;Power BI,Bengaluru
+J0125,SQL Developer,Fresher,3.8,IT Services,ETL;SQL;Statistics;Excel,Bengaluru
+J0126,Data Engineer,0-2 years,6.4,FinTech,Power BI;Statistics;Excel;Tableau,Bengaluru
+J0127,Data Analyst,0-2 years,5.3,IT Services,SQL;Statistics;Tableau;Communication,Bengaluru
+J0128,Data Engineer,Fresher,6.7,Consulting,Tableau;Communication;Excel;ETL,Bengaluru
+J0129,SQL Developer,2-4 years,6.8,IT Services,Statistics;Power BI;Python;Communication,Bengaluru
+J0130,Python Developer,0-2 years,5.3,FinTech,Excel;Communication;ETL;Power BI,Bengaluru
+J0131,Power BI Developer,0-2 years,5.2,Consulting,Statistics;Excel;Power BI;ETL,Bengaluru
+J0132,Data Analyst,4-6 years,8.2,FinTech,Communication;ETL;Power BI;Excel,Bengaluru
+J0133,Data Analyst,2-4 years,5.9,Product Company,Excel;Tableau;Statistics;Python,Bengaluru
+J0134,Data Analyst,2-4 years,5.3,FinTech,SQL;Tableau;Statistics;Communication,Bengaluru
+J0135,Power BI Developer,Fresher,3.8,IT Services,Python;Statistics;Power BI;ETL,Bengaluru
+J0136,Data Analyst,4-6 years,7.5,Product Company,Excel;Statistics;Communication;SQL,Bengaluru
+J0137,Python Developer,2-4 years,7.3,Startup,Power BI;SQL;Tableau;ETL,Bengaluru
+J0138,Data Analyst,0-2 years,5.9,Startup,Statistics;ETL;Communication;Excel,Bengaluru
+J0139,Power BI Developer,Fresher,3.3,Consulting,Statistics;Python;ETL;Tableau,Bengaluru
+J0140,Data Engineer,4-6 years,9.0,IT Services,Communication;Power BI;ETL;Python,Bengaluru
+J0141,SQL Developer,0-2 years,4.4,Startup,Statistics;SQL;ETL;Python,Bengaluru
+J0142,Business Analyst,2-4 years,7.1,IT Services,Communication;Python;Excel;SQL,Bengaluru
+J0143,SQL Developer,2-4 years,5.6,IT Services,Tableau;SQL;Power BI;ETL,Bengaluru
+J0144,Power BI Developer,2-4 years,6.1,Consulting,Excel;Communication;ETL;Tableau,Bengaluru
+J0145,Power BI Developer,2-4 years,5.3,Startup,Tableau;Power BI;Python;SQL,Bengaluru
+J0146,Python Developer,4-6 years,8.7,Startup,Python;Statistics;Excel;ETL,Bengaluru
+J0147,Python Developer,0-2 years,5.4,Consulting,SQL;Python;Statistics;Tableau,Bengaluru
+J0148,Python Developer,Fresher,4.3,Startup,Excel;Statistics;Tableau;Power BI,Bengaluru
+J0149,Business Analyst,2-4 years,6.3,Product Company,Excel;Statistics;Communication;ETL,Bengaluru
+J0150,Business Analyst,0-2 years,6.1,Consulting,Python;ETL;Tableau;Statistics,Bengaluru
+J0151,Data Engineer,2-4 years,7.2,Product Company,Tableau;Statistics;ETL;Communication,Bengaluru
+J0152,Python Developer,2-4 years,6.1,Startup,SQL;Power BI;ETL;Statistics,Bengaluru
+J0153,Data Engineer,0-2 years,7.7,Consulting,ETL;Power BI;SQL;Tableau,Bengaluru
+J0154,Python Developer,2-4 years,6.9,Startup,Power BI;Python;Communication;SQL,Bengaluru
+J0155,SQL Developer,0-2 years,5.2,IT Services,Python;Excel;ETL;Communication,Bengaluru
+J0156,Python Developer,4-6 years,8.6,Startup,Communication;Excel;Tableau;Statistics,Bengaluru
+J0157,Power BI Developer,Fresher,4.4,Product Company,Communication;Power BI;Excel;Statistics,Bengaluru
+J0158,Business Analyst,2-4 years,6.2,Consulting,Python;SQL;ETL;Power BI,Bengaluru
+J0159,SQL Developer,4-6 years,8.2,Consulting,ETL;Power BI;Statistics;Communication,Bengaluru
+J0160,Power BI Developer,0-2 years,6.0,Startup,SQL;Power BI;ETL;Communication,Bengaluru
+J0161,Data Analyst,0-2 years,5.8,IT Services,Tableau;Excel;SQL;Power BI,Bengaluru
+J0162,Data Analyst,0-2 years,4.0,Startup,Python;SQL;Communication;Excel,Bengaluru
+J0163,Data Analyst,0-2 years,5.9,IT Services,ETL;Power BI;Python;Excel,Bengaluru
+J0164,Python Developer,0-2 years,5.2,IT Services,Statistics;ETL;Python;Power BI,Bengaluru
+J0165,Business Analyst,Fresher,3.9,Consulting,Statistics;Tableau;Excel;ETL,Bengaluru
+J0166,SQL Developer,4-6 years,7.4,Consulting,SQL;ETL;Communication;Excel,Bengaluru
+J0167,Data Analyst,Fresher,4.9,FinTech,Tableau;Power BI;Communication;Statistics,Bengaluru
+J0168,Business Analyst,0-2 years,5.6,IT Services,Tableau;ETL;Power BI;Excel,Bengaluru
+J0169,Data Analyst,2-4 years,6.0,Startup,Python;Communication;Power BI;Excel,Bengaluru
+J0170,Power BI Developer,Fresher,5.1,Startup,SQL;Python;Communication;ETL,Bengaluru
+J0171,SQL Developer,Fresher,4.1,FinTech,Communication;Python;Excel;ETL,Bengaluru
+J0172,Business Analyst,4-6 years,7.5,FinTech,Power BI;Tableau;Statistics;SQL,Bengaluru
+J0173,Python Developer,2-4 years,6.2,IT Services,Excel;Power BI;Tableau;Communication,Bengaluru
+J0174,Data Engineer,Fresher,6.3,FinTech,SQL;Excel;Statistics;Power BI,Bengaluru
+J0175,Power BI Developer,2-4 years,6.3,Product Company,Communication;Power BI;Python;Excel,Bengaluru
+J0176,Data Engineer,0-2 years,5.6,Startup,SQL;ETL;Python;Statistics,Bengaluru
+J0177,SQL Developer,Fresher,4.7,IT Services,SQL;Python;Statistics;ETL,Bengaluru
+J0178,SQL Developer,2-4 years,5.6,IT Services,SQL;ETL;Excel;Communication,Bengaluru
+J0179,Business Analyst,0-2 years,6.5,Consulting,Tableau;ETL;Power BI;Excel,Bengaluru
+J0180,Business Analyst,Fresher,3.4,Startup,Excel;Statistics;Tableau;SQL,Bengaluru
+J0181,Data Engineer,4-6 years,9.4,Startup,Python;Communication;Statistics;Excel,Bengaluru
+J0182,Data Analyst,0-2 years,4.3,Consulting,Power BI;Communication;Python;Excel,Bengaluru
+J0183,Data Engineer,0-2 years,5.9,IT Services,Statistics;SQL;Power BI;Communication,Bengaluru
+J0184,Data Engineer,0-2 years,6.3,IT Services,Power BI;Excel;Statistics;Python,Bengaluru
+J0185,Data Engineer,2-4 years,9.4,FinTech,SQL;Excel;ETL;Tableau,Bengaluru
+J0186,Python Developer,2-4 years,6.9,FinTech,SQL;Communication;Python;ETL,Bengaluru
+J0187,Data Engineer,4-6 years,8.9,Product Company,Power BI;Python;Communication;Tableau,Bengaluru
+J0188,Data Analyst,0-2 years,3.4,FinTech,Python;SQL;Excel;Power BI,Bengaluru
+J0189,Power BI Developer,2-4 years,5.0,FinTech,Communication;ETL;Statistics;Tableau,Bengaluru
+J0190,Python Developer,2-4 years,6.4,Product Company,Statistics;Python;Tableau;Power BI,Bengaluru
+J0191,Data Engineer,0-2 years,6.2,FinTech,Statistics;SQL;Excel;Tableau,Bengaluru
+J0192,Data Analyst,Fresher,4.0,Startup,Tableau;Statistics;Python;Excel,Bengaluru
+J0193,Data Engineer,2-4 years,6.2,Startup,SQL;Statistics;ETL;Communication,Bengaluru
+J0194,Python Developer,0-2 years,5.4,FinTech,Power BI;Python;ETL;SQL,Bengaluru
+J0195,Data Analyst,2-4 years,7.0,Startup,Python;Tableau;ETL;Statistics,Bengaluru
+J0196,Python Developer,0-2 years,6.8,Consulting,Power BI;Python;SQL;Communication,Bengaluru
+J0197,Data Analyst,Fresher,2.7,Product Company,Statistics;Excel;SQL;Communication,Bengaluru
+J0198,Data Analyst,4-6 years,7.1,Consulting,SQL;Tableau;Statistics;Python,Bengaluru
+J0199,Python Developer,2-4 years,6.1,Consulting,SQL;Statistics;Python;Tableau,Bengaluru
+J0200,Power BI Developer,0-2 years,5.2,Startup,Communication;Power BI;Excel;Statistics,Bengaluru
+J0201,Data Analyst,2-4 years,5.2,IT Services,Power BI;SQL;Tableau;Python,Bengaluru
+J0202,Business Analyst,0-2 years,6.5,Consulting,Communication;Python;Excel;Tableau,Bengaluru
+J0203,SQL Developer,2-4 years,6.0,FinTech,Excel;Power BI;Python;Tableau,Bengaluru
+J0204,Python Developer,Fresher,4.7,FinTech,Power BI;ETL;Python;SQL,Bengaluru
+J0205,Data Analyst,0-2 years,6.2,FinTech,Power BI;Python;Communication;Excel,Bengaluru
+J0206,Python Developer,0-2 years,5.5,FinTech,Communication;Tableau;SQL;Statistics,Bengaluru
+J0207,SQL Developer,0-2 years,5.0,FinTech,Excel;SQL;Tableau;Statistics,Bengaluru
+J0208,Data Engineer,0-2 years,6.1,Product Company,Power BI;Python;Statistics;Excel,Bengaluru
+J0209,Business Analyst,Fresher,3.4,IT Services,Statistics;Excel;Power BI;ETL,Bengaluru
+J0210,SQL Developer,4-6 years,7.0,Product Company,SQL;Statistics;Python;Communication,Bengaluru
+J0211,Data Analyst,Fresher,5.9,Consulting,Excel;Power BI;Python;SQL,Bengaluru
+J0212,Data Engineer,Fresher,6.5,Product Company,Tableau;Python;Statistics;Excel,Bengaluru
+J0213,Data Engineer,0-2 years,6.9,FinTech,SQL;ETL;Communication;Tableau,Bengaluru
+J0214,SQL Developer,2-4 years,5.2,Consulting,Statistics;SQL;ETL;Python,Bengaluru
+J0215,SQL Developer,Fresher,4.7,IT Services,Power BI;SQL;Python;ETL,Bengaluru
+J0216,Data Engineer,0-2 years,5.6,FinTech,Tableau;Python;Excel;SQL,Bengaluru
+J0217,Business Analyst,2-4 years,5.2,FinTech,SQL;Tableau;Communication;Python,Bengaluru
+J0218,Business Analyst,Fresher,4.1,Product Company,Communication;SQL;Excel;Statistics,Bengaluru
+J0219,Business Analyst,4-6 years,9.6,Startup,Communication;ETL;Statistics;SQL,Bengaluru
+J0220,Power BI Developer,0-2 years,6.6,IT Services,Statistics;Excel;Tableau;SQL,Bengaluru
+J0221,Business Analyst,2-4 years,6.1,FinTech,Power BI;Communication;SQL;Statistics,Bengaluru
+J0222,Data Analyst,Fresher,3.7,Startup,Excel;ETL;Python;Communication,Bengaluru
+J0223,Data Analyst,2-4 years,4.9,Product Company,Python;ETL;Excel;Communication,Bengaluru
+J0224,Data Engineer,4-6 years,9.6,Consulting,ETL;Power BI;Communication;SQL,Bengaluru
+J0225,Data Engineer,Fresher,6.1,IT Services,Statistics;Excel;ETL;SQL,Bengaluru
+J0226,Data Engineer,Fresher,6.6,FinTech,Communication;Tableau;Python;Statistics,Bengaluru
+J0227,Business Analyst,0-2 years,5.9,Product Company,Communication;SQL;Power BI;Excel,Bengaluru
+J0228,SQL Developer,Fresher,3.8,Startup,Excel;Tableau;SQL;Python,Bengaluru
+J0229,SQL Developer,4-6 years,7.9,IT Services,Communication;Excel;Power BI;ETL,Bengaluru
+J0230,Python Developer,2-4 years,6.2,IT Services,Excel;ETL;Python;Statistics,Bengaluru
+J0231,Data Analyst,2-4 years,6.6,IT Services,Statistics;Excel;Power BI;Tableau,Bengaluru
+J0232,Python Developer,4-6 years,7.9,FinTech,Communication;Tableau;Power BI;SQL,Bengaluru
+J0233,Data Analyst,2-4 years,6.6,IT Services,Excel;Power BI;Communication;ETL,Bengaluru
+J0234,Business Analyst,2-4 years,6.8,Product Company,Tableau;SQL;Statistics;Communication,Bengaluru
+J0235,Business Analyst,0-2 years,5.3,Product Company,ETL;SQL;Python;Statistics,Bengaluru
+J0236,Power BI Developer,0-2 years,5.7,IT Services,Tableau;Python;Statistics;ETL,Bengaluru
+J0237,Data Engineer,0-2 years,5.4,Product Company,Statistics;Tableau;SQL;ETL,Bengaluru
+J0238,Power BI Developer,0-2 years,4.2,IT Services,Excel;Statistics;Power BI;SQL,Bengaluru
+J0239,SQL Developer,0-2 years,4.5,Startup,Python;Statistics;Tableau;Excel,Bengaluru
+J0240,Python Developer,Fresher,3.6,Product Company,SQL;Tableau;ETL;Power BI,Bengaluru
+J0241,Python Developer,0-2 years,5.2,Product Company,Tableau;Excel;ETL;Communication,Bengaluru
+J0242,Data Analyst,0-2 years,4.6,Startup,Tableau;Power BI;Communication;Python,Bengaluru
+J0243,Data Engineer,0-2 years,7.7,Consulting,Excel;Tableau;ETL;Statistics,Bengaluru
+J0244,Data Engineer,Fresher,6.1,Consulting,Communication;Power BI;Python;Tableau,Bengaluru
+J0245,Business Analyst,0-2 years,6.0,IT Services,Power BI;SQL;ETL;Excel,Bengaluru
+J0246,Data Analyst,0-2 years,5.1,Product Company,SQL;Excel;ETL;Python,Bengaluru
+J0247,Data Analyst,2-4 years,5.8,IT Services,Tableau;SQL;Power BI;Statistics,Bengaluru
+J0248,Python Developer,2-4 years,6.9,Consulting,ETL;Power BI;Statistics;Python,Bengaluru
+J0249,Data Analyst,Fresher,4.8,Startup,SQL;ETL;Tableau;Excel,Bengaluru
+J0250,Data Analyst,Fresher,5.2,Consulting,Communication;Excel;ETL;SQL,Bengaluru
+J0251,Python Developer,0-2 years,5.4,Startup,Excel;ETL;Communication;Power BI,Bengaluru
+J0252,Data Analyst,Fresher,2.9,Startup,Python;Power BI;ETL;Communication,Bengaluru
+J0253,Data Analyst,0-2 years,3.5,IT Services,ETL;Python;Power BI;Statistics,Bengaluru
+J0254,Data Analyst,4-6 years,7.4,Startup,Tableau;ETL;Communication;Statistics,Bengaluru
+J0255,Power BI Developer,Fresher,2.5,Product Company,Excel;Tableau;Power BI;SQL,Bengaluru
+J0256,SQL Developer,0-2 years,6.1,Startup,Communication;Statistics;Tableau;Power BI,Bengaluru
+J0257,Business Analyst,2-4 years,7.0,IT Services,ETL;Statistics;Excel;Power BI,Bengaluru
+J0258,Python Developer,0-2 years,5.0,Startup,ETL;Communication;Power BI;Python,Bengaluru
+J0259,Business Analyst,Fresher,3.6,FinTech,Power BI;Excel;SQL;Python,Bengaluru
+J0260,Python Developer,Fresher,5.6,Consulting,Python;Statistics;Tableau;ETL,Bengaluru
+J0261,SQL Developer,4-6 years,6.6,IT Services,Tableau;SQL;Excel;ETL,Bengaluru
+J0262,Power BI Developer,Fresher,3.6,Startup,Communication;ETL;Excel;Power BI,Bengaluru
+J0263,Python Developer,2-4 years,6.2,FinTech,Python;SQL;Power BI;Statistics,Bengaluru
+J0264,Power BI Developer,2-4 years,6.5,Consulting,Tableau;Python;SQL;Statistics,Bengaluru
+J0265,Business Analyst,0-2 years,5.7,FinTech,ETL;Statistics;Python;Power BI,Bengaluru
+J0266,Data Analyst,2-4 years,7.2,Startup,Power BI;Statistics;Communication;Excel,Bengaluru
+J0267,Python Developer,Fresher,5.6,IT Services,Tableau;Excel;SQL;Python,Bengaluru
+J0268,Data Analyst,0-2 years,4.9,Startup,Statistics;Power BI;Excel;Tableau,Bengaluru
+J0269,SQL Developer,0-2 years,5.5,Product Company,Excel;Statistics;Python;SQL,Bengaluru
+J0270,Python Developer,4-6 years,7.8,Startup,Tableau;Power BI;SQL;Statistics,Bengaluru
+J0271,Power BI Developer,Fresher,2.9,Startup,Tableau;Statistics;SQL;Python,Bengaluru
+J0272,Python Developer,Fresher,4.3,Product Company,Power BI;Communication;Python;Tableau,Bengaluru
+J0273,Data Engineer,4-6 years,8.9,FinTech,Python;Statistics;Excel;ETL,Bengaluru
+J0274,Python Developer,Fresher,4.3,Consulting,ETL;Power BI;Excel;Python,Bengaluru
+J0275,SQL Developer,4-6 years,6.7,Consulting,ETL;Power BI;Communication;Python,Bengaluru
+J0276,Business Analyst,2-4 years,6.1,FinTech,ETL;Excel;Communication;Tableau,Bengaluru
+J0277,Power BI Developer,2-4 years,6.9,FinTech,Excel;SQL;Tableau;Statistics,Bengaluru
+J0278,Power BI Developer,2-4 years,7.8,Startup,ETL;Power BI;Communication;Tableau,Bengaluru
+J0279,Business Analyst,2-4 years,5.1,IT Services,ETL;Excel;Power BI;Communication,Bengaluru
+J0280,Data Analyst,Fresher,3.2,Consulting,Power BI;ETL;Statistics;SQL,Bengaluru
+J0281,Data Analyst,4-6 years,7.1,FinTech,SQL;ETL;Python;Statistics,Bengaluru
+J0282,Python Developer,4-6 years,8.9,Consulting,Statistics;Communication;Excel;SQL,Bengaluru
+J0283,Python Developer,4-6 years,8.1,Consulting,Communication;Tableau;Excel;Power BI,Bengaluru
+J0284,Data Analyst,2-4 years,5.6,IT Services,SQL;Tableau;Excel;Statistics,Bengaluru
+J0285,Data Analyst,0-2 years,5.5,IT Services,Tableau;Power BI;ETL;Statistics,Bengaluru
+J0286,Python Developer,0-2 years,6.3,Startup,Excel;ETL;SQL;Power BI,Bengaluru
+J0287,SQL Developer,Fresher,4.0,IT Services,Power BI;SQL;Statistics;ETL,Bengaluru
+J0288,SQL Developer,0-2 years,4.0,Startup,SQL;Power BI;Python;Statistics,Bengaluru
+J0289,Business Analyst,2-4 years,6.7,FinTech,Python;Communication;Statistics;ETL,Bengaluru
+J0290,Power BI Developer,2-4 years,6.2,Startup,Excel;Statistics;Communication;Tableau,Bengaluru
+J0291,Power BI Developer,0-2 years,4.9,IT Services,Tableau;SQL;Statistics;Communication,Bengaluru
+J0292,Data Analyst,0-2 years,4.5,FinTech,Statistics;Python;ETL;Tableau,Bengaluru
+J0293,Data Analyst,2-4 years,6.9,FinTech,Python;ETL;Tableau;Excel,Bengaluru
+J0294,Python Developer,0-2 years,5.7,IT Services,Statistics;SQL;Python;Excel,Bengaluru
+J0295,Python Developer,4-6 years,9.1,Product Company,SQL;Statistics;ETL;Python,Bengaluru
+J0296,Data Analyst,2-4 years,7.3,Product Company,ETL;SQL;Tableau;Python,Bengaluru
+J0297,Data Analyst,Fresher,4.6,FinTech,Statistics;SQL;ETL;Communication,Bengaluru
+J0298,Power BI Developer,Fresher,4.0,Consulting,ETL;Statistics;SQL;Power BI,Bengaluru
+J0299,SQL Developer,2-4 years,6.8,Product Company,Statistics;Tableau;ETL;Power BI,Bengaluru
+J0300,Data Analyst,0-2 years,5.3,IT Services,SQL;Power BI;Excel;Tableau,Bengaluru
+J0301,Python Developer,2-4 years,8.9,IT Services,Excel;Tableau;Communication;Python,Bengaluru
+J0302,Data Analyst,Fresher,4.4,Consulting,Power BI;Excel;Statistics;Python,Bengaluru
+J0303,Business Analyst,Fresher,5.1,FinTech,Tableau;Power BI;ETL;Communication,Bengaluru
+J0304,Power BI Developer,0-2 years,5.3,Startup,Power BI;Excel;Statistics;Communication,Bengaluru
+J0305,Business Analyst,2-4 years,6.4,Consulting,Statistics;Tableau;SQL;Power BI,Bengaluru
+J0306,Data Analyst,4-6 years,7.5,Product Company,Statistics;SQL;Python;Tableau,Bengaluru
+J0307,Data Engineer,4-6 years,9.7,Startup,SQL;ETL;Excel;Communication,Bengaluru
+J0308,Business Analyst,0-2 years,5.6,Startup,Statistics;Communication;Excel;Python,Bengaluru
+J0309,Python Developer,2-4 years,7.7,IT Services,ETL;Power BI;Statistics;Python,Bengaluru
+J0310,Power BI Developer,Fresher,4.6,IT Services,Power BI;ETL;Communication;Tableau,Bengaluru
+J0311,Data Engineer,2-4 years,7.6,Startup,Tableau;Python;Statistics;SQL,Bengaluru
+J0312,Power BI Developer,4-6 years,7.6,IT Services,Tableau;ETL;Statistics;Power BI,Bengaluru
+J0313,SQL Developer,0-2 years,3.6,FinTech,ETL;Excel;Tableau;Statistics,Bengaluru
+J0314,Data Engineer,4-6 years,10.8,Consulting,Excel;Python;ETL;Communication,Bengaluru
+J0315,Data Analyst,0-2 years,4.5,IT Services,SQL;ETL;Python;Statistics,Bengaluru
+J0316,Business Analyst,Fresher,5.3,Consulting,Communication;Excel;Python;ETL,Bengaluru
+J0317,Business Analyst,0-2 years,5.4,Product Company,Power BI;Communication;Excel;SQL,Bengaluru
+J0318,Python Developer,4-6 years,8.5,Consulting,Communication;Python;SQL;Tableau,Bengaluru
+J0319,Data Engineer,0-2 years,6.6,IT Services,Tableau;ETL;Excel;SQL,Bengaluru
+J0320,Power BI Developer,2-4 years,5.8,Startup,Excel;Python;SQL;Tableau,Bengaluru
+J0321,Data Engineer,Fresher,5.2,IT Services,Power BI;Excel;Tableau;Python,Bengaluru
+J0322,Data Analyst,2-4 years,7.6,FinTech,Excel;Communication;Statistics;Power BI,Bengaluru
+J0323,Power BI Developer,0-2 years,5.2,Product Company,Excel;ETL;Statistics;Python,Bengaluru
+J0324,Power BI Developer,Fresher,5.3,Startup,Power BI;Python;Statistics;SQL,Bengaluru
+J0325,SQL Developer,2-4 years,7.1,FinTech,Python;Communication;Excel;Tableau,Bengaluru
+J0326,Data Analyst,2-4 years,5.9,FinTech,Tableau;ETL;Power BI;Communication,Bengaluru
+J0327,Data Analyst,0-2 years,5.2,Product Company,Excel;SQL;ETL;Python,Bengaluru
+J0328,Data Engineer,0-2 years,6.7,Consulting,SQL;Python;Statistics;Excel,Bengaluru
+J0329,Business Analyst,Fresher,3.6,Startup,Communication;Excel;ETL;Power BI,Bengaluru
+J0330,Python Developer,4-6 years,8.2,Product Company,SQL;ETL;Statistics;Power BI,Bengaluru
+J0331,Data Engineer,2-4 years,8.5,FinTech,Statistics;SQL;Power BI;ETL,Bengaluru
+J0332,SQL Developer,2-4 years,5.6,Product Company,Statistics;Power BI;Communication;Tableau,Bengaluru
+J0333,Business Analyst,2-4 years,6.2,Startup,Statistics;Power BI;Python;ETL,Bengaluru
+J0334,SQL Developer,2-4 years,5.9,Consulting,ETL;Excel;Statistics;Communication,Bengaluru
+J0335,Business Analyst,Fresher,6.2,Consulting,SQL;Power BI;Excel;Python,Bengaluru
+J0336,Business Analyst,0-2 years,3.7,Consulting,Tableau;Statistics;SQL;Python,Bengaluru
+J0337,Power BI Developer,2-4 years,6.8,Consulting,Excel;Tableau;Python;SQL,Bengaluru
+J0338,SQL Developer,Fresher,3.8,Startup,ETL;Power BI;Tableau;Excel,Bengaluru
+J0339,Power BI Developer,Fresher,3.9,Startup,Power BI;ETL;Excel;SQL,Bengaluru
+J0340,Power BI Developer,2-4 years,6.2,Consulting,Excel;Communication;Python;Statistics,Bengaluru
+J0341,Python Developer,4-6 years,8.8,FinTech,Power BI;ETL;Python;SQL,Bengaluru
+J0342,Python Developer,2-4 years,7.4,Startup,Tableau;SQL;Python;Communication,Bengaluru
+J0343,Business Analyst,Fresher,4.6,Product Company,Tableau;Power BI;ETL;Statistics,Bengaluru
+J0344,Python Developer,4-6 years,9.2,Product Company,Statistics;Tableau;Communication;Power BI,Bengaluru
+J0345,Power BI Developer,Fresher,5.4,IT Services,Communication;Tableau;ETL;Excel,Bengaluru
+J0346,Business Analyst,0-2 years,5.9,Consulting,SQL;Excel;Statistics;Communication,Bengaluru
+J0347,Business Analyst,4-6 years,7.6,FinTech,Communication;Statistics;Excel;Power BI,Bengaluru
+J0348,Power BI Developer,2-4 years,6.8,FinTech,Communication;Statistics;Excel;Python,Bengaluru
+J0349,Data Engineer,4-6 years,9.9,Startup,Communication;ETL;SQL;Tableau,Bengaluru
+J0350,SQL Developer,2-4 years,5.3,Product Company,Power BI;Excel;Statistics;Tableau,Bengaluru
+J0351,Power BI Developer,2-4 years,5.1,FinTech,Power BI;Python;ETL;Tableau,Bengaluru
+J0352,Business Analyst,0-2 years,3.6,IT Services,Statistics;Tableau;Python;ETL,Bengaluru
+J0353,Python Developer,0-2 years,5.6,FinTech,Tableau;Statistics;Excel;SQL,Bengaluru
+J0354,Data Engineer,4-6 years,9.7,Product Company,Communication;ETL;Python;Tableau,Bengaluru
+J0355,SQL Developer,4-6 years,6.6,Product Company,Power BI;Python;SQL;Tableau,Bengaluru
+J0356,Python Developer,0-2 years,6.3,IT Services,Power BI;Statistics;SQL;Python,Bengaluru
+J0357,Data Analyst,0-2 years,5.0,FinTech,Power BI;Tableau;Communication;Excel,Bengaluru
+J0358,Python Developer,0-2 years,6.6,Product Company,Statistics;SQL;Tableau;Python,Bengaluru
+J0359,Python Developer,0-2 years,5.8,Product Company,Power BI;Tableau;Communication;Excel,Bengaluru
+J0360,Data Engineer,4-6 years,8.6,Product Company,Communication;Tableau;SQL;Power BI,Bengaluru
+J0361,Business Analyst,Fresher,4.9,Startup,Statistics;SQL;ETL;Excel,Bengaluru
+J0362,SQL Developer,0-2 years,5.2,Consulting,Excel;ETL;Tableau;Statistics,Bengaluru
+J0363,Python Developer,4-6 years,7.9,IT Services,Excel;SQL;Tableau;ETL,Bengaluru
+J0364,Data Engineer,0-2 years,5.5,IT Services,SQL;Tableau;Excel;Python,Bengaluru
+J0365,Business Analyst,0-2 years,5.3,Consulting,Communication;ETL;Python;Excel,Bengaluru
+J0366,Power BI Developer,0-2 years,4.3,Startup,Power BI;SQL;Statistics;Python,Bengaluru
+J0367,Data Engineer,Fresher,6.9,Consulting,SQL;Excel;Python;Statistics,Bengaluru
+J0368,Python Developer,0-2 years,5.2,Product Company,Statistics;Communication;Power BI;Tableau,Bengaluru
+J0369,SQL Developer,Fresher,5.4,Consulting,Statistics;SQL;Python;ETL,Bengaluru
+J0370,Business Analyst,Fresher,2.8,Startup,SQL;Statistics;Excel;ETL,Bengaluru
+J0371,Business Analyst,Fresher,4.6,Consulting,Excel;Python;Communication;Tableau,Bengaluru
+J0372,Data Analyst,0-2 years,6.0,IT Services,Power BI;Excel;SQL;Statistics,Bengaluru
+J0373,Data Analyst,Fresher,3.5,FinTech,ETL;Communication;Statistics;Tableau,Bengaluru
+J0374,SQL Developer,4-6 years,7.4,IT Services,Communication;Python;Excel;Tableau,Bengaluru
+J0375,Data Analyst,Fresher,3.9,Startup,SQL;Communication;Excel;Tableau,Bengaluru
+J0376,Data Analyst,0-2 years,4.4,Product Company,Communication;Excel;Statistics;ETL,Bengaluru
+J0377,Power BI Developer,4-6 years,8.1,Startup,Communication;Python;Tableau;Power BI,Bengaluru
+J0378,Data Analyst,Fresher,3.2,IT Services,SQL;Communication;Excel;Python,Bengaluru
+J0379,Data Analyst,0-2 years,4.8,Consulting,Statistics;Excel;Communication;Power BI,Bengaluru
+J0380,Python Developer,4-6 years,8.7,Product Company,Tableau;Communication;ETL;SQL,Bengaluru
+J0381,Data Engineer,0-2 years,6.5,Consulting,Power BI;SQL;Communication;Statistics,Bengaluru
+J0382,Power BI Developer,Fresher,3.6,FinTech,ETL;Tableau;Excel;Python,Bengaluru
+J0383,Data Analyst,2-4 years,7.0,Product Company,Python;Statistics;SQL;ETL,Bengaluru
+J0384,Business Analyst,2-4 years,7.1,Product Company,Excel;Python;ETL;SQL,Bengaluru
+J0385,Power BI Developer,0-2 years,4.3,Startup,ETL;Statistics;Excel;Tableau,Bengaluru
+J0386,Power BI Developer,Fresher,3.4,IT Services,Communication;Statistics;ETL;Power BI,Bengaluru
+J0387,SQL Developer,Fresher,3.2,Consulting,Statistics;Python;Power BI;Tableau,Bengaluru
+J0388,Data Engineer,2-4 years,8.4,Startup,Communication;Tableau;Excel;SQL,Bengaluru
+J0389,Data Engineer,0-2 years,6.9,IT Services,SQL;Statistics;ETL;Power BI,Bengaluru
+J0390,Power BI Developer,Fresher,5.0,Startup,Excel;Power BI;Tableau;Python,Bengaluru
+J0391,Power BI Developer,0-2 years,4.8,FinTech,Power BI;Python;Statistics;Communication,Bengaluru
+J0392,Power BI Developer,4-6 years,7.2,Product Company,SQL;Communication;Python;Power BI,Bengaluru
+J0393,Data Analyst,Fresher,4.9,Consulting,Communication;Excel;Python;Power BI,Bengaluru
+J0394,Power BI Developer,Fresher,4.0,Consulting,Statistics;Tableau;Communication;Excel,Bengaluru
+J0395,Data Engineer,0-2 years,6.8,IT Services,Power BI;ETL;Python;SQL,Bengaluru
+J0396,Business Analyst,2-4 years,5.3,Startup,Tableau;Statistics;Python;Power BI,Bengaluru
+J0397,Data Analyst,0-2 years,4.4,IT Services,Python;ETL;Statistics;Tableau,Bengaluru
+J0398,SQL Developer,4-6 years,8.3,Startup,Excel;Tableau;Power BI;ETL,Bengaluru
+J0399,Business Analyst,Fresher,3.9,IT Services,Excel;ETL;SQL;Statistics,Bengaluru
+J0400,Data Engineer,0-2 years,7.4,IT Services,SQL;Statistics;Communication;Power BI,Bengaluru
+J0401,SQL Developer,0-2 years,2.8,Consulting,SQL;Python;Communication;Statistics,Bengaluru
+J0402,Python Developer,0-2 years,5.1,IT Services,Communication;Python;Excel;ETL,Bengaluru
+J0403,Data Engineer,0-2 years,6.6,Startup,SQL;ETL;Statistics;Python,Bengaluru
+J0404,Power BI Developer,2-4 years,7.8,FinTech,Excel;Tableau;ETL;Communication,Bengaluru
+J0405,Power BI Developer,0-2 years,4.2,Startup,SQL;Statistics;Power BI;Tableau,Bengaluru
+J0406,Data Engineer,2-4 years,8.5,IT Services,Excel;Tableau;ETL;Statistics,Bengaluru
+J0407,Power BI Developer,Fresher,5.2,IT Services,ETL;Python;Statistics;Power BI,Bengaluru
+J0408,Business Analyst,0-2 years,4.6,Startup,Statistics;Excel;Tableau;SQL,Bengaluru
+J0409,Power BI Developer,0-2 years,4.8,FinTech,Power BI;Communication;ETL;Python,Bengaluru
+J0410,Business Analyst,0-2 years,5.3,IT Services,Statistics;Tableau;Power BI;SQL,Bengaluru
+J0411,Business Analyst,Fresher,3.3,Consulting,SQL;Communication;Python;Statistics,Bengaluru
+J0412,Python Developer,4-6 years,7.9,Startup,SQL;Excel;Python;Communication,Bengaluru
+J0413,Business Analyst,4-6 years,9.0,Product Company,Excel;Python;Statistics;Communication,Bengaluru
+J0414,Data Analyst,2-4 years,6.6,Startup,ETL;Statistics;Python;Power BI,Bengaluru
+J0415,Data Engineer,4-6 years,9.4,IT Services,Power BI;Communication;ETL;Python,Bengaluru
+J0416,Python Developer,Fresher,4.9,Product Company,Statistics;Tableau;SQL;ETL,Bengaluru
+J0417,Power BI Developer,0-2 years,5.6,FinTech,SQL;Tableau;Excel;Communication,Bengaluru
+J0418,Power BI Developer,0-2 years,5.7,IT Services,Communication;Excel;SQL;Python,Bengaluru
+J0419,Python Developer,4-6 years,7.9,Consulting,SQL;Python;Excel;Tableau,Bengaluru
+J0420,Python Developer,Fresher,6.0,Startup,Excel;Communication;Statistics;ETL,Bengaluru
+J0421,Power BI Developer,Fresher,5.5,IT Services,Communication;Statistics;SQL;Excel,Bengaluru
+J0422,Business Analyst,2-4 years,7.0,Consulting,Python;Excel;ETL;SQL,Bengaluru
+J0423,Power BI Developer,Fresher,3.7,Product Company,Tableau;Power BI;Communication;Statistics,Bengaluru
+J0424,Power BI Developer,2-4 years,5.6,Product Company,Excel;Python;Tableau;ETL,Bengaluru
+J0425,Business Analyst,0-2 years,4.9,Consulting,Statistics;Python;Power BI;SQL,Bengaluru
+J0426,Data Analyst,2-4 years,6.2,Startup,Python;ETL;Tableau;SQL,Bengaluru
+J0427,Data Engineer,4-6 years,8.1,Consulting,Power BI;Communication;Excel;ETL,Bengaluru
+J0428,Data Engineer,2-4 years,8.4,FinTech,Excel;Statistics;Python;Power BI,Bengaluru
+J0429,Data Engineer,Fresher,7.0,Consulting,Tableau;Statistics;SQL;Python,Bengaluru
+J0430,Data Analyst,Fresher,4.7,IT Services,Python;Statistics;Power BI;SQL,Bengaluru
+J0431,Data Engineer,Fresher,5.5,IT Services,SQL;Tableau;ETL;Python,Bengaluru
+J0432,Data Engineer,Fresher,5.4,FinTech,SQL;ETL;Statistics;Power BI,Bengaluru
+J0433,Power BI Developer,2-4 years,6.6,Consulting,Python;Excel;SQL;Statistics,Bengaluru
+J0434,SQL Developer,0-2 years,4.6,FinTech,Statistics;Excel;Power BI;Communication,Bengaluru
+J0435,Python Developer,0-2 years,5.9,FinTech,Excel;Statistics;Tableau;SQL,Bengaluru
+J0436,SQL Developer,Fresher,4.5,Product Company,Communication;Python;Excel;Tableau,Bengaluru
+J0437,Data Analyst,4-6 years,8.6,Startup,Excel;Power BI;Communication;ETL,Bengaluru
+J0438,Python Developer,Fresher,3.9,IT Services,Statistics;Communication;Tableau;SQL,Bengaluru
+J0439,Business Analyst,0-2 years,5.4,IT Services,ETL;Python;Tableau;Statistics,Bengaluru
+J0440,Business Analyst,0-2 years,4.9,FinTech,Tableau;Statistics;Power BI;Excel,Bengaluru
+J0441,Data Analyst,Fresher,4.1,IT Services,Excel;Communication;Power BI;Statistics,Bengaluru
+J0442,SQL Developer,4-6 years,8.2,IT Services,Tableau;SQL;Excel;Statistics,Bengaluru
+J0443,Data Analyst,Fresher,5.0,FinTech,Communication;SQL;Tableau;Excel,Bengaluru
+J0444,Data Engineer,2-4 years,9.1,Startup,Excel;Python;Communication;Tableau,Bengaluru
+J0445,Data Engineer,2-4 years,8.3,Consulting,Excel;Power BI;Tableau;ETL,Bengaluru
+J0446,Power BI Developer,2-4 years,6.3,Product Company,Communication;ETL;Power BI;Excel,Bengaluru
+J0447,Business Analyst,2-4 years,6.3,FinTech,Power BI;Excel;Communication;Statistics,Bengaluru
+J0448,Data Analyst,2-4 years,4.8,Product Company,Tableau;Statistics;SQL;Excel,Bengaluru
+J0449,Python Developer,0-2 years,6.6,Product Company,ETL;Tableau;Power BI;Statistics,Bengaluru
+J0450,Power BI Developer,0-2 years,4.8,FinTech,Statistics;Excel;SQL;Power BI,Bengaluru
+J0451,Data Analyst,2-4 years,6.6,FinTech,Excel;Power BI;ETL;SQL,Bengaluru
+J0452,Data Engineer,0-2 years,7.2,Consulting,Statistics;SQL;Communication;ETL,Bengaluru
+J0453,SQL Developer,0-2 years,3.7,Consulting,Statistics;Communication;SQL;ETL,Bengaluru
+J0454,Power BI Developer,Fresher,3.7,FinTech,Excel;SQL;Communication;Statistics,Bengaluru
+J0455,Data Analyst,0-2 years,6.1,FinTech,Tableau;SQL;Excel;Communication,Bengaluru
+J0456,SQL Developer,0-2 years,4.9,Consulting,Statistics;Python;Excel;Tableau,Bengaluru
+J0457,SQL Developer,Fresher,3.5,IT Services,Statistics;Communication;Excel;Power BI,Bengaluru
+J0458,Data Analyst,0-2 years,4.8,Consulting,Excel;ETL;Communication;Statistics,Bengaluru
+J0459,Power BI Developer,Fresher,5.3,IT Services,Communication;Statistics;Excel;Python,Bengaluru
+J0460,Data Engineer,0-2 years,7.4,Product Company,Python;Communication;ETL;Excel,Bengaluru
+J0461,Python Developer,2-4 years,5.6,Product Company,Power BI;Communication;Excel;Python,Bengaluru
+J0462,SQL Developer,0-2 years,6.0,FinTech,Excel;Tableau;Communication;Python,Bengaluru
+J0463,Python Developer,2-4 years,7.6,Product Company,ETL;Statistics;Excel;Communication,Bengaluru
+J0464,SQL Developer,Fresher,3.9,FinTech,ETL;Python;Communication;Statistics,Bengaluru
+J0465,SQL Developer,Fresher,3.0,FinTech,SQL;ETL;Statistics;Python,Bengaluru
+J0466,Power BI Developer,2-4 years,7.2,FinTech,ETL;Statistics;Python;SQL,Bengaluru
+J0467,Python Developer,2-4 years,7.2,Startup,Excel;SQL;Power BI;Communication,Bengaluru
+J0468,Business Analyst,2-4 years,5.3,Consulting,Excel;Statistics;Power BI;SQL,Bengaluru
+J0469,SQL Developer,2-4 years,5.8,IT Services,Python;SQL;Statistics;Communication,Bengaluru
+J0470,Data Engineer,2-4 years,10.5,Product Company,Python;SQL;Statistics;Communication,Bengaluru
+J0471,Python Developer,2-4 years,6.8,Product Company,Statistics;Power BI;ETL;SQL,Bengaluru
+J0472,Data Analyst,2-4 years,5.6,IT Services,Python;Excel;Tableau;Statistics,Bengaluru
+J0473,Data Engineer,2-4 years,7.2,FinTech,Statistics;Power BI;SQL;Python,Bengaluru
+J0474,Power BI Developer,Fresher,5.8,FinTech,ETL;Tableau;SQL;Excel,Bengaluru
+J0475,Business Analyst,Fresher,5.2,Product Company,SQL;Statistics;Excel;Power BI,Bengaluru
+J0476,Data Engineer,0-2 years,7.8,Startup,Power BI;Communication;Python;SQL,Bengaluru
+J0477,Data Engineer,0-2 years,6.9,Startup,ETL;Excel;Python;Communication,Bengaluru
+J0478,Data Engineer,2-4 years,9.0,IT Services,Statistics;ETL;SQL;Communication,Bengaluru
+J0479,SQL Developer,0-2 years,4.0,FinTech,ETL;Python;SQL;Statistics,Bengaluru
+J0480,Data Engineer,0-2 years,6.8,Product Company,Communication;Statistics;Excel;Power BI,Bengaluru
+J0481,Power BI Developer,2-4 years,6.6,Startup,SQL;Power BI;Statistics;ETL,Bengaluru
+J0482,Data Engineer,0-2 years,7.8,Product Company,Communication;Tableau;Python;Statistics,Bengaluru
+J0483,Python Developer,2-4 years,7.1,FinTech,Statistics;Communication;SQL;Python,Bengaluru
+J0484,Business Analyst,Fresher,4.0,Product Company,ETL;SQL;Excel;Communication,Bengaluru
+J0485,Business Analyst,0-2 years,5.3,Product Company,Python;Power BI;Statistics;Communication,Bengaluru
+J0486,Data Engineer,0-2 years,5.4,Startup,Statistics;Communication;Python;Power BI,Bengaluru
+J0487,Python Developer,0-2 years,3.6,FinTech,Communication;ETL;Excel;Python,Bengaluru
+J0488,Data Engineer,Fresher,6.7,Startup,Excel;Communication;SQL;Tableau,Bengaluru
+J0489,Python Developer,0-2 years,5.2,FinTech,Statistics;SQL;Python;Power BI,Bengaluru
+J0490,Python Developer,0-2 years,5.3,IT Services,Power BI;Communication;Statistics;Excel,Bengaluru
+J0491,Data Analyst,0-2 years,5.6,Startup,ETL;SQL;Excel;Communication,Bengaluru
+J0492,SQL Developer,2-4 years,7.1,IT Services,Tableau;Power BI;SQL;Statistics,Bengaluru
+J0493,Python Developer,Fresher,5.2,Startup,Python;Statistics;Excel;ETL,Bengaluru
+J0494,Data Analyst,0-2 years,6.4,Startup,Power BI;Excel;ETL;Communication,Bengaluru
+J0495,Data Analyst,Fresher,4.6,Startup,Statistics;Tableau;Excel;Communication,Bengaluru
+J0496,Python Developer,4-6 years,8.5,Consulting,Power BI;Communication;Tableau;SQL,Bengaluru
+J0497,Business Analyst,2-4 years,6.7,FinTech,ETL;Power BI;Tableau;SQL,Bengaluru
+J0498,Power BI Developer,4-6 years,6.9,IT Services,SQL;ETL;Python;Tableau,Bengaluru
+J0499,SQL Developer,4-6 years,8.3,Consulting,Power BI;Tableau;Python;Statistics,Bengaluru
+J0500,SQL Developer,0-2 years,2.7,IT Services,Statistics;SQL;ETL;Tableau,Bengaluru
+J0501,Data Analyst,2-4 years,5.7,Product Company,Communication;Power BI;Statistics;Excel,Bengaluru
+J0502,SQL Developer,0-2 years,4.7,IT Services,ETL;Excel;Statistics;Power BI,Bengaluru
+J0503,Python Developer,4-6 years,7.7,FinTech,Communication;Excel;ETL;Python,Bengaluru
+J0504,Python Developer,0-2 years,5.1,Product Company,Statistics;Power BI;Python;Communication,Bengaluru
+J0505,Business Analyst,0-2 years,6.7,Product Company,Excel;SQL;Tableau;Statistics,Bengaluru
+J0506,Data Analyst,4-6 years,8.6,FinTech,Statistics;SQL;Communication;Excel,Bengaluru
+J0507,Data Engineer,2-4 years,7.5,Consulting,Python;Excel;Power BI;SQL,Bengaluru
+J0508,Data Engineer,4-6 years,9.1,Startup,SQL;Excel;Tableau;Power BI,Bengaluru
+J0509,Data Engineer,Fresher,5.0,Startup,Communication;ETL;SQL;Power BI,Bengaluru
+J0510,Business Analyst,0-2 years,5.8,IT Services,ETL;Excel;Statistics;Communication,Bengaluru
+J0511,Python Developer,0-2 years,5.3,Startup,Statistics;Excel;SQL;ETL,Bengaluru
+J0512,Data Analyst,0-2 years,3.3,Consulting,SQL;Statistics;Excel;Power BI,Bengaluru
+J0513,Data Engineer,0-2 years,6.8,Product Company,SQL;Statistics;Python;ETL,Bengaluru
+J0514,Data Analyst,0-2 years,5.3,Startup,Excel;Tableau;SQL;Statistics,Bengaluru
+J0515,SQL Developer,2-4 years,6.8,Product Company,Communication;Tableau;ETL;Python,Bengaluru
+J0516,Data Engineer,0-2 years,6.6,FinTech,Excel;Power BI;SQL;Communication,Bengaluru
+J0517,Power BI Developer,2-4 years,6.1,FinTech,Statistics;Power BI;Python;Communication,Bengaluru
+J0518,Data Engineer,4-6 years,11.1,FinTech,ETL;Statistics;Power BI;Tableau,Bengaluru
+J0519,SQL Developer,2-4 years,6.0,FinTech,Python;SQL;Statistics;Communication,Bengaluru
+J0520,Data Analyst,0-2 years,5.5,Consulting,Python;ETL;Power BI;Excel,Bengaluru
+J0521,Data Analyst,Fresher,3.8,FinTech,Tableau;ETL;Communication;Statistics,Bengaluru
+J0522,Data Analyst,Fresher,4.8,FinTech,Power BI;Communication;Python;ETL,Bengaluru
+J0523,Data Analyst,2-4 years,5.0,Consulting,Tableau;ETL;Statistics;Excel,Bengaluru
+J0524,SQL Developer,0-2 years,4.3,Product Company,ETL;Statistics;SQL;Python,Bengaluru
+J0525,Data Analyst,Fresher,3.2,FinTech,Power BI;Python;Tableau;Statistics,Bengaluru
+J0526,Business Analyst,4-6 years,7.5,Product Company,Excel;Communication;Statistics;Python,Bengaluru
+J0527,SQL Developer,2-4 years,7.0,Startup,ETL;Communication;Excel;Tableau,Bengaluru
+J0528,Power BI Developer,4-6 years,7.4,Startup,Excel;Power BI;SQL;Communication,Bengaluru
+J0529,Power BI Developer,0-2 years,5.7,Product Company,Excel;Communication;Tableau;Python,Bengaluru
+J0530,Data Analyst,4-6 years,8.9,Startup,ETL;Python;Tableau;Excel,Bengaluru
+J0531,Data Engineer,Fresher,6.0,Startup,Python;SQL;Communication;Power BI,Bengaluru
+J0532,Python Developer,Fresher,5.6,IT Services,Python;ETL;Power BI;SQL,Bengaluru
+J0533,SQL Developer,4-6 years,7.9,Product Company,Communication;Tableau;Statistics;SQL,Bengaluru
+J0534,SQL Developer,4-6 years,7.6,Product Company,Tableau;SQL;Excel;Statistics,Bengaluru
+J0535,Data Engineer,0-2 years,7.3,Product Company,ETL;SQL;Python;Statistics,Bengaluru
+J0536,SQL Developer,Fresher,5.5,Product Company,Power BI;ETL;Communication;Statistics,Bengaluru
+J0537,Business Analyst,0-2 years,4.7,FinTech,Excel;Tableau;Statistics;Python,Bengaluru
+J0538,SQL Developer,2-4 years,5.2,IT Services,Python;ETL;Tableau;Communication,Bengaluru
+J0539,Data Analyst,4-6 years,6.9,Product Company,Python;Power BI;Communication;Excel,Bengaluru
+J0540,Data Analyst,0-2 years,5.7,Consulting,Tableau;ETL;Excel;Power BI,Bengaluru
+J0541,Business Analyst,Fresher,5.4,IT Services,SQL;Excel;Statistics;Communication,Bengaluru
+J0542,Business Analyst,2-4 years,6.1,Startup,Tableau;Communication;Python;Statistics,Bengaluru
+J0543,SQL Developer,2-4 years,4.3,Startup,ETL;Statistics;Excel;SQL,Bengaluru
+J0544,Data Analyst,0-2 years,4.4,IT Services,Power BI;ETL;Statistics;Excel,Bengaluru
+J0545,Python Developer,2-4 years,7.2,IT Services,Python;Tableau;ETL;Communication,Bengaluru
+J0546,Data Analyst,4-6 years,7.6,Startup,ETL;Excel;Statistics;Tableau,Bengaluru
+J0547,Business Analyst,0-2 years,5.3,IT Services,Communication;Excel;Tableau;ETL,Bengaluru
+J0548,Data Engineer,2-4 years,7.6,Consulting,Python;Tableau;Statistics;Power BI,Bengaluru
+J0549,Data Analyst,2-4 years,7.0,FinTech,SQL;Excel;Power BI;Communication,Bengaluru
+J0550,Business Analyst,0-2 years,5.5,Product Company,Power BI;Statistics;Tableau;Excel,Bengaluru
+J0551,Python Developer,4-6 years,8.8,Startup,SQL;Tableau;Communication;ETL,Bengaluru
+J0552,Business Analyst,2-4 years,6.6,Consulting,Tableau;Python;SQL;Communication,Bengaluru
+J0553,Business Analyst,0-2 years,5.6,Startup,Communication;SQL;Tableau;Statistics,Bengaluru
+J0554,Data Analyst,Fresher,4.6,Startup,Communication;Python;Power BI;Statistics,Bengaluru
+J0555,SQL Developer,2-4 years,5.3,Product Company,Statistics;Power BI;ETL;SQL,Bengaluru
+J0556,Power BI Developer,Fresher,4.7,Product Company,Excel;SQL;ETL;Python,Bengaluru
+J0557,Python Developer,Fresher,5.4,IT Services,ETL;Statistics;SQL;Communication,Bengaluru
+J0558,Data Engineer,0-2 years,7.6,FinTech,Statistics;Python;Tableau;Power BI,Bengaluru
+J0559,Power BI Developer,2-4 years,6.7,Startup,Tableau;Statistics;Excel;Communication,Bengaluru
+J0560,Power BI Developer,4-6 years,7.1,Startup,Statistics;Tableau;Python;Excel,Bengaluru
+J0561,SQL Developer,2-4 years,5.4,Product Company,ETL;Excel;SQL;Statistics,Bengaluru
+J0562,Python Developer,4-6 years,8.0,Product Company,Python;Excel;ETL;SQL,Bengaluru
+J0563,Python Developer,0-2 years,5.7,FinTech,Python;Statistics;Power BI;Communication,Bengaluru
+J0564,Power BI Developer,0-2 years,5.0,Startup,Power BI;SQL;Excel;ETL,Bengaluru
+J0565,Python Developer,4-6 years,7.4,Product Company,Tableau;SQL;Python;ETL,Bengaluru
+J0566,SQL Developer,0-2 years,3.8,Startup,Power BI;Python;ETL;Statistics,Bengaluru
+J0567,Data Analyst,2-4 years,4.5,Startup,ETL;Tableau;Excel;Statistics,Bengaluru
+J0568,Data Engineer,0-2 years,4.2,Product Company,Power BI;Statistics;Python;Excel,Bengaluru
+J0569,SQL Developer,0-2 years,4.6,Consulting,Communication;Python;Excel;ETL,Bengaluru
+J0570,Power BI Developer,2-4 years,8.3,Startup,Tableau;Statistics;Python;Power BI,Bengaluru
+J0571,Power BI Developer,Fresher,5.8,FinTech,Statistics;Python;SQL;ETL,Bengaluru
+J0572,Data Analyst,Fresher,3.4,Product Company,ETL;Communication;Python;SQL,Bengaluru
+J0573,Python Developer,0-2 years,5.6,Product Company,Python;ETL;Excel;SQL,Bengaluru
+J0574,SQL Developer,Fresher,2.8,FinTech,Communication;Power BI;SQL;ETL,Bengaluru
+J0575,Business Analyst,0-2 years,4.2,IT Services,Tableau;SQL;Excel;Power BI,Bengaluru
+J0576,Business Analyst,4-6 years,7.0,IT Services,Power BI;Excel;SQL;Communication,Bengaluru
+J0577,Python Developer,0-2 years,5.3,Consulting,Power BI;Tableau;SQL;ETL,Bengaluru
+J0578,Data Analyst,4-6 years,7.6,Startup,Communication;Excel;ETL;SQL,Bengaluru
+J0579,Python Developer,0-2 years,5.7,FinTech,Python;Excel;Tableau;Communication,Bengaluru
+J0580,Data Engineer,Fresher,6.5,FinTech,Communication;Python;Tableau;SQL,Bengaluru
+J0581,Data Analyst,Fresher,3.9,FinTech,Statistics;Excel;Python;SQL,Bengaluru
+J0582,Data Analyst,4-6 years,7.7,Product Company,Communication;Tableau;ETL;Power BI,Bengaluru
+J0583,Data Analyst,2-4 years,5.3,Consulting,Communication;ETL;Tableau;Power BI,Bengaluru
+J0584,Power BI Developer,4-6 years,6.8,FinTech,Communication;Excel;Power BI;Statistics,Bengaluru
+J0585,Data Engineer,0-2 years,5.5,Startup,Excel;SQL;Communication;Tableau,Bengaluru
+J0586,Data Engineer,2-4 years,8.5,IT Services,Power BI;Excel;Tableau;SQL,Bengaluru
+J0587,Data Analyst,2-4 years,5.9,Product Company,Communication;Excel;Tableau;SQL,Bengaluru
+J0588,SQL Developer,4-6 years,6.0,Consulting,Tableau;Excel;Power BI;Python,Bengaluru
+J0589,Data Analyst,Fresher,4.1,Consulting,Tableau;ETL;Excel;Statistics,Bengaluru
+J0590,SQL Developer,4-6 years,6.5,FinTech,SQL;Tableau;Python;Statistics,Bengaluru
+J0591,Business Analyst,0-2 years,6.5,Product Company,Power BI;Tableau;SQL;ETL,Bengaluru
+J0592,Python Developer,2-4 years,6.3,Startup,SQL;Excel;ETL;Python,Bengaluru
+J0593,Data Engineer,0-2 years,7.2,Startup,Power BI;Excel;SQL;Statistics,Bengaluru
+J0594,Power BI Developer,0-2 years,6.0,FinTech,Tableau;SQL;Communication;Python,Bengaluru
+J0595,Data Analyst,0-2 years,4.1,Product Company,Excel;SQL;Communication;Python,Bengaluru
+J0596,Business Analyst,2-4 years,6.6,Consulting,ETL;Python;Communication;SQL,Bengaluru
+J0597,Business Analyst,0-2 years,5.6,Product Company,Tableau;ETL;Excel;Communication,Bengaluru
+J0598,Business Analyst,0-2 years,5.3,FinTech,Power BI;SQL;Communication;Tableau,Bengaluru
+J0599,SQL Developer,0-2 years,5.0,IT Services,Excel;Statistics;ETL;SQL,Bengaluru
+J0600,Python Developer,2-4 years,5.7,Startup,Communication;Tableau;Statistics;Power BI,Bengaluru
+J0601,Power BI Developer,0-2 years,5.5,Consulting,Python;Communication;Excel;Statistics,Bengaluru
+J0602,Data Engineer,2-4 years,7.6,Product Company,Python;ETL;Tableau;Statistics,Bengaluru
+J0603,Power BI Developer,0-2 years,5.4,FinTech,SQL;Communication;Excel;Tableau,Bengaluru
+J0604,Business Analyst,2-4 years,7.2,Startup,Statistics;Python;SQL;Power BI,Bengaluru
+J0605,Business Analyst,2-4 years,7.0,IT Services,Communication;Power BI;ETL;Statistics,Bengaluru
+J0606,SQL Developer,2-4 years,6.3,FinTech,Python;Excel;Power BI;Communication,Bengaluru
+J0607,Power BI Developer,2-4 years,6.9,FinTech,Power BI;ETL;SQL;Python,Bengaluru
+J0608,Data Engineer,0-2 years,7.3,Startup,SQL;Python;Statistics;ETL,Bengaluru
+J0609,SQL Developer,Fresher,5.2,FinTech,Tableau;Excel;SQL;Statistics,Bengaluru
+J0610,Business Analyst,2-4 years,6.5,Startup,ETL;Statistics;SQL;Tableau,Bengaluru
+J0611,Data Analyst,Fresher,4.3,Startup,SQL;Power BI;ETL;Excel,Bengaluru
+J0612,Data Analyst,Fresher,4.9,FinTech,Excel;SQL;Power BI;Python,Bengaluru
+J0613,Python Developer,2-4 years,6.4,Startup,ETL;Statistics;Communication;Excel,Bengaluru
+J0614,Python Developer,0-2 years,4.4,IT Services,Communication;Tableau;Excel;Power BI,Bengaluru
+J0615,Python Developer,0-2 years,5.9,Startup,Tableau;Excel;Python;Communication,Bengaluru
+J0616,Data Analyst,4-6 years,7.5,Product Company,ETL;Statistics;Communication;Excel,Bengaluru
+J0617,SQL Developer,0-2 years,3.7,Startup,SQL;Statistics;Power BI;Communication,Bengaluru
+J0618,Business Analyst,Fresher,4.9,IT Services,SQL;Python;Power BI;Excel,Bengaluru
+J0619,SQL Developer,Fresher,5.1,IT Services,Tableau;Communication;Excel;SQL,Bengaluru
+J0620,Python Developer,0-2 years,4.2,Consulting,Python;Power BI;Communication;ETL,Bengaluru
+J0621,Business Analyst,2-4 years,7.3,Product Company,Excel;SQL;Communication;Power BI,Bengaluru
+J0622,Python Developer,2-4 years,4.8,Startup,Communication;Power BI;SQL;Tableau,Bengaluru
+J0623,Business Analyst,0-2 years,4.9,Product Company,SQL;Tableau;Power BI;Communication,Bengaluru
+J0624,Python Developer,0-2 years,7.0,Product Company,ETL;Power BI;SQL;Communication,Bengaluru
+J0625,SQL Developer,0-2 years,4.4,IT Services,ETL;SQL;Power BI;Communication,Bengaluru
+J0626,SQL Developer,Fresher,4.1,Product Company,ETL;Python;Tableau;Communication,Bengaluru
+J0627,Data Analyst,2-4 years,6.8,IT Services,Statistics;ETL;Tableau;Excel,Bengaluru
+J0628,Python Developer,2-4 years,5.4,IT Services,Python;SQL;Communication;Tableau,Bengaluru
+J0629,Data Engineer,Fresher,6.1,Consulting,Tableau;Statistics;Power BI;Python,Bengaluru
+J0630,Python Developer,2-4 years,6.9,IT Services,Tableau;Power BI;Communication;ETL,Bengaluru
+J0631,Power BI Developer,2-4 years,7.9,IT Services,Statistics;ETL;Python;SQL,Bengaluru
+J0632,Power BI Developer,0-2 years,4.1,Startup,Communication;Tableau;ETL;SQL,Bengaluru
+J0633,Data Analyst,2-4 years,5.9,Consulting,Power BI;Tableau;ETL;Communication,Bengaluru
+J0634,Power BI Developer,2-4 years,5.7,Consulting,Power BI;Excel;Communication;Tableau,Bengaluru
+J0635,Business Analyst,Fresher,3.7,Consulting,Communication;SQL;ETL;Statistics,Bengaluru
+J0636,Python Developer,Fresher,5.7,Startup,SQL;Power BI;Statistics;Tableau,Bengaluru
+J0637,Data Engineer,2-4 years,8.0,Product Company,Statistics;Excel;Tableau;Communication,Bengaluru
+J0638,Data Engineer,4-6 years,9.1,IT Services,ETL;Tableau;Python;Statistics,Bengaluru
+J0639,SQL Developer,2-4 years,5.6,Consulting,Excel;Power BI;ETL;Statistics,Bengaluru
+J0640,Data Engineer,0-2 years,6.2,IT Services,SQL;Tableau;Statistics;Python,Bengaluru
+J0641,Python Developer,2-4 years,6.4,Product Company,SQL;Power BI;Excel;Statistics,Bengaluru
+J0642,Data Analyst,0-2 years,3.9,Product Company,Statistics;Power BI;SQL;ETL,Bengaluru
+J0643,Business Analyst,Fresher,4.3,Consulting,Excel;SQL;ETL;Power BI,Bengaluru
+J0644,Data Engineer,0-2 years,6.4,Consulting,Tableau;Communication;Statistics;Python,Bengaluru
+J0645,Data Engineer,4-6 years,8.9,FinTech,Tableau;Python;Communication;Power BI,Bengaluru
+J0646,Data Engineer,2-4 years,8.1,Product Company,Communication;Power BI;Tableau;Excel,Bengaluru
+J0647,SQL Developer,4-6 years,7.7,FinTech,ETL;Tableau;Excel;Power BI,Bengaluru
+J0648,Business Analyst,Fresher,4.1,FinTech,SQL;ETL;Python;Communication,Bengaluru
+J0649,Power BI Developer,0-2 years,5.0,Product Company,Tableau;Python;Statistics;Power BI,Bengaluru
+J0650,Data Analyst,2-4 years,7.9,Consulting,Tableau;SQL;Power BI;ETL,Bengaluru
